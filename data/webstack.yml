@@ -2,72 +2,73 @@
 
 - taxonomy: 个人网站
   icon: fas fa-medal
-  links:
-    - title: Weidows-projects
-      logo: https://cdn.jsdelivr.net/gh/Weidows-projects/.github/profile/4BCJWOhHAzPkGvT.png
-      url: https://github.com/Weidows-projects
-      description: Github 组织
-    - title: Weidow's Monitor-Page
-      logo: https://pan.weidows.tech/d/local/img/Icons/b98e0c972685693aeac61c82ddd8ec443493258686630857.jpg
-      url: https://monitor.weidows.tech
-      description: 网站状态监控
-    - title: "QQ 群: 932716856"
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=JnTr-1VT336RQZoLzpQhyjCINxSeODgp&authKey=WPTDajRFhxeqrTRyXFq9uRPEbir%2Bb3PNlrUf5%2B73nhywJQFuIntjFqXH7IsXmKMQ&noverify=0&group_code=932716856
-      description: 网站服务更新通知/闲聊
-    - title: 网址导航
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: https://nav.weidows.tech
-      description: WIP
-    - title: Docker Mirror
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: https://docker.hub.weidows.tech
-      description: 自用镜像加速
-    - title: vaultwarden
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: https://vaultwarden.weidows.tech
-      description: 自建密码管理平台
-    - title: chatgpt
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: https://chatgpt.ai.weidows.tech
-      description: "访问码: Weidows | 搭着玩的,我自己也不用"
-    - title: sink
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: https://sink.weidows.tech
-      description: 短连接平台
-    - title: bing
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: https://bing.ai.weidows.tech
-      description: 自建..
-    - title: paperkite
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: https://paperkite.bt.weidows.tech
-      description: BT 搜索聚合
-    - title: moe.counter
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: https://moe.counter.weidows.tech
-      description: 计数器 (自由调用)
-    - title: referer.counter
-      logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
-      url: https://github.com/Weidows/referer-counter
-      description: 计数器 (自由调用)
-    - title: Bangumi
-      logo: https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg
-      url: https://bangumi.tv/anime/list/823155/collect?orderby=rate
-      description: 追番管理 & 评分
-    - title: MikuTap
-      logo: https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg
-      url: https://mikutap.weidows.tech
-      description: 可以认为是网页音游
-    - title: Edge Workspace
-      logo: https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg
-      url: https://aka.ms/edge/workspaceslaunch?code=dHlwZT0xJmlkPWFIUjBjSE02THk5b2IyMWxMbTFwWTNKdmMyOW1kSEJsY25OdmJtRnNZMjl1ZEdWdWRDNWpiMjB2T25VNkwyY3ZZMjl1ZEdWdWRITjBiM0poWjJVdk5rTjZibWxvVGpOMk1IVjVNWHBMTlVaeVVrTmlkelU0TWpaaU1XVTRZVGMyWVRVeE5UaDNiM0pyYzNCaFkyVnpMMGxSVEZKMFpXMVliV3BCT1ZGaVZ6Um1XVVJVYTBaVFkwRlhOV2hEUkdKTFNFeHFWVFE0TkVrd2VqY3dYM1ZCJnN0b3JlPTUmc291cmNlPVdvcmtzcGFjZXMmcmVkZWVtQ29kZT1kdW1teV9zZWVkJmFwcElkR3VpZD1iNmQ4MzNjZi1iNTRlLTRjYWItODE0My0xMzE4ZTBiYzUwZTE%3D&source=Workspaces
-      description: Edge 浏览器共享浏览/收藏 - 看番 | 导航 | 聊天
+  list:
+    - term: 无分类
+      links:
+        - title: Weidows-projects
+          logo: https://cdn.jsdelivr.net/gh/Weidows-projects/.github/profile/4BCJWOhHAzPkGvT.png
+          url: https://github.com/Weidows-projects
+          description: Github 组织
+        - title: Monitor-Page
+          logo: https://pan.weidows.tech/d/local/img/Icons/b98e0c972685693aeac61c82ddd8ec443493258686630857.jpg
+          url: https://monitor.weidows.tech
+          description: 网站状态监控
+        - title: "QQ 群: 932716856"
+          logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
+          url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=JnTr-1VT336RQZoLzpQhyjCINxSeODgp&authKey=WPTDajRFhxeqrTRyXFq9uRPEbir%2Bb3PNlrUf5%2B73nhywJQFuIntjFqXH7IsXmKMQ&noverify=0&group_code=932716856
+          description: 网站服务更新通知/闲聊
+        - title: vaultwarden
+          logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
+          url: https://vaultwarden.weidows.tech
+          description: 自建密码管理平台
+        - title: sink
+          logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
+          url: https://sink.weidows.tech
+          description: 短连接平台
+        - title: paperkite
+          logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
+          url: https://paperkite.bt.weidows.tech
+          description: BT 搜索聚合
+        - title: Bangumi
+          logo: https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg
+          url: https://bangumi.tv/anime/list/823155/collect?orderby=rate
+          description: 追番管理 & 评分
+        - title: MikuTap
+          logo: https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg
+          url: https://mikutap.weidows.tech
+          description: 可以认为是网页音游
+        - title: Edge Workspace
+          logo: https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg
+          url: https://aka.ms/edge/workspaceslaunch?code=dHlwZT0xJmlkPWFIUjBjSE02THk5b2IyMWxMbTFwWTNKdmMyOW1kSEJsY25OdmJtRnNZMjl1ZEdWdWRDNWpiMjB2T25VNkwyY3ZZMjl1ZEdWdWRITjBiM0poWjJVdk5rTjZibWxvVGpOMk1IVjVNWHBMTlVaeVVrTmlkelU0TWpaaU1XVTRZVGMyWVRVeE5UaDNiM0pyYzNCaFkyVnpMMGxSVEZKMFpXMVliV3BCT1ZGaVZ6Um1XVVJVYTBaVFkwRlhOV2hEUkdKTFNFeHFWVFE0TkVrd2VqY3dYM1ZCJnN0b3JlPTUmc291cmNlPVdvcmtzcGFjZXMmcmVkZWVtQ29kZT1kdW1teV9zZWVkJmFwcElkR3VpZD1iNmQ4MzNjZi1iNTRlLTRjYWItODE0My0xMzE4ZTBiYzUwZTE%3D&source=Workspaces
+          description: Edge 浏览器共享浏览/收藏 - 看番 | 导航 | 聊天
+    - term: AI
+      links:
+        - title: chatgpt
+          logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
+          url: https://chatgpt.ai.weidows.tech
+          description: "访问码: Weidows | 搭着玩的,我自己也不用"
+        - title: bing
+          logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
+          url: https://bing.ai.weidows.tech
+          description: 自建..
+    - term: API
+      links:
+        - title: moe.counter
+          logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
+          url: https://moe.counter.weidows.tech
+          description: 计数器 (自由调用)
+        - title: referer.counter
+          logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
+          url: https://github.com/Weidows/referer-counter
+          description: 计数器 (自由调用)
+        - title: Docker Mirror
+          logo: https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/avatar.png
+          url: https://docker.hub.weidows.tech
+          description: 仅供个人使用
 
 - taxonomy: 近期推荐
   icon: far fa-star
   links:
-
 
 - taxonomy: 码农专区
   icon: fab fa-github

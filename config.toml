@@ -16,7 +16,7 @@ publishDir            = "public"
     enablePreLoad = true                                                # 网站完全打开前预加载动画
     textPreLoad   = "Welcome"                                      # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true                                               # 默认展开左侧边导航栏
-    logosPath     = "https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg"	        	# 网站每个导航地址logo存放地址
+    logosPath     = ""	        	# 网站每个导航地址logo存放地址
     defaultLogo   = "https://pan.weidows.tech/d/local/img/404.jpg"  	# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
     nightMode     = true						# 默认站点为深色(夜间)模式
     yiyan         = true                                        	# 默认启用一言服务
@@ -35,10 +35,10 @@ publishDir            = "public"
     favicon           = "https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg"
     searchImageL      = "https://pan.weidows.tech/d/local/album/%E5%BD%A9%E8%89%B2%E5%87%A0%E4%BD%95%E6%A8%A1%E5%9D%97/03.jpg"	# 搜索部分浅色背景图
     searchImageD      = "https://pan.weidows.tech/d/local/album/%E5%BD%A9%E8%89%B2%E5%87%A0%E4%BD%95%E6%A8%A1%E5%9D%97/02.jpg"	# 搜索部分深色背景图
-    logoExpandLight   = "https://pan.weidows.tech/d/local/album/%E5%BD%A9%E8%89%B2%E5%87%A0%E4%BD%95%E6%A8%A1%E5%9D%97/03.jpg"
-    logoExpandDark    = "https://pan.weidows.tech/d/local/album/%E5%BD%A9%E8%89%B2%E5%87%A0%E4%BD%95%E6%A8%A1%E5%9D%97/02.jpg"
-    logoCollapseLight = ""
-    logoCollapseDark  = ""
+    logoExpandLight   = "https://pan.weidows.tech/d/local/img/Icons/b98e0c972685693aeac61c82ddd8ec443493258686630857.jpg"
+    logoExpandDark    = "https://pan.weidows.tech/d/local/img/Icons/b98e0c972685693aeac61c82ddd8ec443493258686630857.jpg"
+    logoCollapseLight = "https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg"
+    logoCollapseDark  = "https://pan.weidows.tech/d/local/img/avatar/6e7c5e92.jpg"
 
 [markup.goldmark.renderer]
     unsafe = true
